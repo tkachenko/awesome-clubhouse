@@ -3,7 +3,7 @@
 	<br>
 </div>
 
-# awesome-clubhouse
+# Curated list of awesome clubhouse resources 
 A list of useful tools (apis, links, services etc.) for clubhouse users
 
 ## Contents
