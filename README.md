@@ -47,7 +47,7 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 
 ## Related
 
-- [Clubhouse products at Producthunt](https://www.producthunt.com/search?q=clubhouse&postedDate=90%3Adays) -  Awesome clubhouse related products on GitHub.
+- [Clubhouse products at Producthunt](https://www.producthunt.com/search?q=clubhouse&postedDate=90%3Adays) -  Awesome clubhouse related products on ProductHunt 😽
 
 
 ## Contributing
