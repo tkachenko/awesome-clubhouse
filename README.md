@@ -19,6 +19,7 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 ## Create short link for clubhouse event
 
 - [clublink.to](https://clublink.to/) - Optimize your Clubhouse links
+- [clubho.us](https://clubho.us/) -  Get clubhouse short links with social media optimized previews
 - [clubhype.io](https://clubhype.io/) - Clubhype: Social media previews and landing pages for your Clubhouse events
 - [gethostnotes.com](https://gethostnotes.com/) - Host Notes: Clubhouse events - better!
 - [lu.ma/clubhouse](https://lu.ma/clubhouse) - Luma for Clubhouse
