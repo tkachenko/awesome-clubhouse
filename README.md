@@ -45,7 +45,7 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 ## Local clubs
 
 - 🇺🇦 [UkrainianHouse.com](https://ukrainianhouse.com) - Ukrainian House on Clubhouse
-- 🇪🇺 [facebook.com/groups/453517985685764](https://www.facebook.com/groups/453517985685764) - EU Cluib
+- 🇪🇺 [facebook.com/groups/453517985685764](https://www.facebook.com/groups/453517985685764) - EU Club
 - 🇬🇧 [facebook.com/groups/clubhouseappuk](https://www.facebook.com/groups/clubhouseappuk/) - Clubhouse UK
 
 ## Clubhouse APIs and open source libs 
