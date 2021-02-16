@@ -12,6 +12,7 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 - [Find rooms and events](#find-rooms-and-events)
 - [Profile and rooms statistics](#profile-and-rooms-statistics)
 - [Avatars and profile editors](#avatars-and-profile-editors)
+- [Local clubs](#local-clubs)
 - [Clubhouse APIs and open source libs](#clubhouse-apis-and-open-source-libs)
 - [Related](#related)
 
@@ -41,12 +42,16 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 - [chpic.me](https://chpic.me/) - Clubhouse Profile Picture Ring
 - [clubhousebio.xyz](https://clubhousebio.xyz/) - Create an engaging clubhouse bio in less than 3 minutes
 
+## Local clubs
+
+- 🇺🇦[UkrainianHouse.com](https://ukrainianhouse.com) - Ukrainian House on Clubhouse
+- 🇪🇺[facebook.com/groups/453517985685764](https://www.facebook.com/groups/453517985685764) - EU Cluib
+- 🇬🇧[facebook.com/groups/clubhouseappuk](https://www.facebook.com/groups/clubhouseappuk/) - Clubhouse UK
 
 ## Clubhouse APIs and open source libs 
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory/tree/master/APIs/clubhouseapi.com/1) - Clubhouse open api
 - [Seia-Soto/Clubhouse-API](https://github.com/Seia-Soto/clubhouse-api) - The API wrapper for Clubhouse application (drop-in audio chat) based on online private API documentation and pwned soruces by myself.
 - [tonybruess/clubhouse-web](https://github.com/tonybruess/clubhouse-web) - This is an incomplete attempt at making a clubhouse web client.
-
 
 ## Related
 
