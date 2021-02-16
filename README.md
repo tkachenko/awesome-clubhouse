@@ -59,4 +59,4 @@ Contributions are very welcome!
 
 You may create pull request on GitHub 🤖 
 
-Or simply send link to my twitter ( https://twitter.com/tkachenko ) or email andrey@tkachenko.xyz 
+Or just send a link to my twitter ( https://twitter.com/tkachenko ) or email andrey@tkachenko.xyz 
