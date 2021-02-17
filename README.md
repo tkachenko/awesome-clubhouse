@@ -41,6 +41,7 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 - [clubhouseglow.com](https://www.clubhouseglow.com/) - Get a Clubhouse Glow avatar - Color circle your profile photo and be noticed right away
 - [chpic.me](https://chpic.me/) - Clubhouse Profile Picture Ring
 - [clubhousebio.xyz](https://clubhousebio.xyz/) - Create an engaging clubhouse bio in less than 3 minutes
+- [pic.house](https://pic.house/) - Upgrade your profile picture
 
 ## Local clubs
 
