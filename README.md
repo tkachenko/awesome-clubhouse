@@ -48,6 +48,9 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 - 🇺🇦 [UkrainianHouse.com](https://ukrainianhouse.com) - Ukrainian House on Clubhouse
 - 🇪🇺 [facebook.com/groups/453517985685764](https://www.facebook.com/groups/453517985685764) - EU Club
 - 🇬🇧 [facebook.com/groups/clubhouseappuk](https://www.facebook.com/groups/clubhouseappuk/) - Clubhouse UK
+- 🇯🇵 [linkedin.com/groups/2093319](https://www.linkedin.com/groups/2093319/) - Japan Clubhouse events
+
+
 
 ## Clubhouse APIs and open source libs 
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory/tree/master/APIs/clubhouseapi.com/1) - Clubhouse open api
