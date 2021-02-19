@@ -53,9 +53,13 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 
 
 ## Clubhouse APIs and open source libs 
+
+- [stypr/clubhouse-py](https://github.com/stypr/clubhouse-py) - Clubhouse API client written in Python
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory/tree/master/APIs/clubhouseapi.com/1) - Clubhouse open api
 - [Seia-Soto/Clubhouse-API](https://github.com/Seia-Soto/clubhouse-api) - The API wrapper for Clubhouse application (drop-in audio chat) based on online private API documentation and pwned soruces by myself.
-- [tonybruess/clubhouse-web](https://github.com/tonybruess/clubhouse-web) - This is an incomplete attempt at making a clubhouse web client.
+- [tonybruess/clubhouse-web](https://github.com/tonybruess/clubhouse-web) - This is an incomplete attempt at making a clubhouse web client
+- [Seia-Soto/clubhouse-api](https://github.com/Seia-Soto/clubhouse-api) - Node.JS API wrapper for Clubhouse application (drop-in audio chat) 
+
 
 ## Related
 
