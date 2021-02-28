@@ -34,6 +34,7 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 ## Profile and rooms statistics
 
 - [chblade.com](https://chblade.com/) - 👋 Clubhouse Profile Statistics
+- [direcon.com](https://www.direcon.com/) - Detailed Analytics for Clubhouse
 
 ## Avatars and profile editors
 
