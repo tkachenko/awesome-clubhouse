@@ -61,6 +61,7 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 - [Seia-Soto/Clubhouse-API](https://github.com/Seia-Soto/clubhouse-api) - The API wrapper for Clubhouse application (drop-in audio chat) based on online private API documentation and pwned soruces by myself.
 - [tonybruess/clubhouse-web](https://github.com/tonybruess/clubhouse-web) - This is an incomplete attempt at making a clubhouse web client
 - [Seia-Soto/clubhouse-api](https://github.com/Seia-Soto/clubhouse-api) - Node.JS API wrapper for Clubhouse application (drop-in audio chat) 
+- [hazzik/ClubhouseDotNet](https://github.com/hazzik/ClubhouseDotNet) - .NET REST client for Clubhouse
 
 
 ## Related
