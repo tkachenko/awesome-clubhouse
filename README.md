@@ -57,7 +57,8 @@ A list of useful tools (apis, links, services etc.) for clubhouse users
 
 - [clubhouse-unfollowers](https://github.com/soroushchehresa/clubhouse-unfollowers) - Find and unfollow people who unfollowed you or don't follow you back on Clubhouse
 - [stypr/clubhouse-py](https://github.com/stypr/clubhouse-py) - Clubhouse API client written in Python
-- [grishka/Houseclub](grishka/Houseclub) - Unofficial Clubhouse Android client  
+- [grishka/Houseclub](https://github.com/grishka/Houseclub) - Unofficial Clubhouse Android client
+- [ClubHouze](https://play.google.com/store/apps/details?id=ir.miladnouri.houseclub) - Unofficial Clubhouse Android client  
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory/tree/master/APIs/clubhouseapi.com/1) - Clubhouse open api
 - [Seia-Soto/Clubhouse-API](https://github.com/Seia-Soto/clubhouse-api) - The API wrapper for Clubhouse application (drop-in audio chat) based on online private API documentation and pwned soruces by myself.
 - [tonybruess/clubhouse-web](https://github.com/tonybruess/clubhouse-web) - This is an incomplete attempt at making a clubhouse web client
